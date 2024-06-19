@@ -4,7 +4,9 @@ dta/
 docs/
 battleye/
 mpmissions/dayzOffline.chernarusplus/storage_[0-9]*
-!Workshop/
+mpmissions/dayzOffline.chernarusplus/areaflags.map
+mpmissions/dayzOffline.enoch/storage_[0-9]*!Workshop/
+mpmissions/dayzOffline.enoch/areaflags.map
 
 DayZServer_x64.exe
 steam_api64.dll
