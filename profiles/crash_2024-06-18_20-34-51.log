@@ -1,0 +1,28 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2024-06-18_20-34-51.log started at 18.06. 20:35:44
+
+
+
+------------------------------------
+DESKTOP-C4FRK2Q, 18.06 2024 20:35:44
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:Airdrop\AirdropSettings.json":
+JSON ERROR:
+Reading variable: data
+Expecting instance
+Reading variable: VPP_Map
+Expecting instance
+Reading variable: MapColor
+Expecting static array
+Could not read static array
+
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:131
+Airdrop-Upgraded/Scripts/4_World/airdropsettings.c:333
+Airdrop-Upgraded/Scripts/4_World/airdrop.c:51
+Airdrop-Upgraded/Scripts/4_World/airdrop.c:631
+Airdrop-Upgraded/Scripts/5_Mission/airdropinit.c:9
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 cpuCount 2 dologs  profiles profiles adminlog  netlog  freezecheck  config serverDZ.cfg mod @CF;@Cl0ud's Military Gear;@Code Lock;@BaseBuildingPlus;@Breachingcharge;@VPPAdminTools;@Airdrop-Upgraded;@MuchStuffPack;@AC-Mod-Pack;@Advanced Weapon Scopes;@Mortys Weapons;@RedFalcon Flight System Heliz;@ORefugioModPack2;@MuchFramework 

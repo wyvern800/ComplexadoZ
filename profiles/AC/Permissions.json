@@ -1,0 +1,18 @@
+{
+    "m_Groups": [
+        {
+            "m_Name": "superadmin",
+            "m_ForceName": 0,
+            "m_Users": [
+                {
+                    "m_Name": "[CPX] Favle",
+                    "m_Steam": "76561198077095698"
+                }
+            ],
+            "m_Permissions": [
+                "root"
+            ]
+        }
+    ],
+    "m_Everyone": []
+}

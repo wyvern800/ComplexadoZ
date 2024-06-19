@@ -1,0 +1,18 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2024-06-18_21-09-05.log started at 18.06. 21:15:57
+
+
+
+------------------------------------
+DESKTOP-C4FRK2Q, 18.06 2024 21:15:57
+NULL pointer to instance
+Class:      'AC_Tombstone_01'
+Entity id:2997940
+
+Function: 'AC_058203F'
+Stack trace:
+AC-Mod-Pack/AC-Scripts/3_Game/AC/ј?ђэ.c:1
+AC-Mod-Pack/AC-Scripts/4_World/Tombstone/ѐ?ыч.c:1
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 cpuCount 2 dologs  profiles profiles adminlog  netlog  freezecheck  config serverDZ.cfg mod @CF;@Cl0ud's Military Gear;@Code Lock;@BaseBuildingPlus;@Breachingcharge;@VPPAdminTools;@Airdrop-Upgraded;@MuchStuffPack;@AC-Mod-Pack;@Advanced Weapon Scopes;@Mortys Weapons;@RedFalcon Flight System Heliz;@ORefugioModPack2;@MuchFramework 

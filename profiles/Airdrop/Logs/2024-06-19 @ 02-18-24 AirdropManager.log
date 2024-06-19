@@ -1,0 +1,21 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand ([CPX] Favle).
+[2024-06-19 @ 02-27-15] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <6427.903809, 328.195770, 8085.141113>
+[EOnCallAirdrop] Drop zone offset to: <6395.750488, 2438.000000, 8064.419922>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 15865.695313>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.664521° / 51.9257°, Text: 'North/East (052°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (16360/15865.7), from the North/East (052°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand ([CPX] Favle).
+[2024-06-19 @ 02-35-55] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <6405.874512, 328.633209, 8092.266113>
+[EOnCallAirdrop] Drop zone offset to: <6416.676758, 2438.000000, 8107.730469>
+[EOnCallAirdrop] Aircraft spawn point: <42.119205, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft type used=<Land_AN_12>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.22679° / 322.414°, Text: 'North/West (322°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (42.1192/16360), from the North/West (322°).

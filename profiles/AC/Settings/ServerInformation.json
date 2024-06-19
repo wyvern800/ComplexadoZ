@@ -1,0 +1,45 @@
+{
+    "m_Enable": 1,
+    "m_ServerLogo": 1,
+    "m_Description": "Description of your server",
+    "m_Tabs": [
+        {
+            "m_TabLabel": "TAB 01",
+            "m_TabLines": [
+                "01 - Text...",
+                "02 - Text...",
+                "03 - Etc...."
+            ]
+        },
+        {
+            "m_TabLabel": "TAB 02",
+            "m_TabLines": [
+                "04 - Text...",
+                "05 - Text...",
+                "06 - Etc...."
+            ]
+        },
+        {
+            "m_TabLabel": "TAB 03",
+            "m_TabLines": [
+                "07 - Text...",
+                "08 - Text...",
+                "09 - Etc...."
+            ]
+        }
+    ],
+    "m_Buttons": [
+        {
+            "m_ButtonText": "DONATE",
+            "m_ButtonLink": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KQS8P492THZ4J&currency_code=BRL&source=url"
+        },
+        {
+            "m_ButtonText": "WEBSITE",
+            "m_ButtonLink": "https://steamcommunity.com/sharedfiles/filedetails/?id=2030913708"
+        },
+        {
+            "m_ButtonText": "DISCORD",
+            "m_ButtonLink": "https://discord.gg/QfGuzTF4Hk"
+        }
+    ]
+}
